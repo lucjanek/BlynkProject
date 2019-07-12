@@ -9,6 +9,11 @@ Projekt zakłada zdalne sterowanie przełącznikiem, odczyt temperatury i wilgot
 * Konwerter poziomów logicznych
 * 2x Przetwornica DC-DC - Step-down - Mini 360
 
+## Biblioteki
+* TinyGsmClient
+* BlynkSimpleSIM800
+* DHT sensor
+
 ## Schemat
 ![Schemat](Schematic.png)
 
