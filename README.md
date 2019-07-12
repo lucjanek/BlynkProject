@@ -11,3 +11,6 @@ Projekt zakłada zdalne sterowanie przełącznikiem, odczyt temperatury i wilgot
 
 ## Schemat
 ![Schemat](Schematic.png)
+
+## Aplikacja
+![Screenshot](Screenshot.png)
