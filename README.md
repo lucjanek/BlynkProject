@@ -1,5 +1,5 @@
 ﻿# BlynkProject
-Projekt zakłada zdalne sterowanie przełącznikiem, odczyt temperatury i wilgotność przy wykorzystaniu platformy Blynk.
+Projekt zakłada zdalne sterowanie przełącznikiem, odczyt temperatury i wilgotności przy wykorzystaniu platformy Blynk.
 
 ## Komponenty
 * Arduino Nano
